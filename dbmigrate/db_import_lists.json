@@ -1,0 +1,5 @@
+[
+	{"id":1, "name":"Shopping List", "description":"List of required groceries", "checked":0, "priority":1},
+	{"id":2, "name":"TV-shows", "description":"Things to watch from tv", "checked":0, "priority":1},
+	{"id":3, "name":"Work", "description":"Things to do in work", "checked":0, "priority":1}
+]

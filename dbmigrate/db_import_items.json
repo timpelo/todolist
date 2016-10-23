@@ -1,0 +1,8 @@
+[
+	{"id":1, "name":"Banana", "description":"none", "checked":0, "priority":1, "todolist":1},
+	{"id":2, "name":"Apple", "description":"none", "checked":0, "priority":1, "todolist":1},
+	{"id":3, "name":"F1", "description":"Formula 1", "checked":0, "priority":1, "todolist":2},
+	{"id":4, "name":"Exams", "description":"Fix all exams", "checked":0, "priority":1, "todolist":3},
+	{"id":5, "name":"Exercies", "description":"Create new exercises for week 42", "checked":0, "priority":1, "todolist":3},
+	{"id":6, "name":"Vacation", "description":"Book flights to NY", "checked":0, "priority":2, "todolist":3}
+]
